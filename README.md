@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @takikoo
+- 👀 I’m interested in javascript, nodejs, docker, git
+- 🌱 I’m currently learning vim <3
